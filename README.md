@@ -9,3 +9,4 @@ npx vue-cli-service serve
 to test it:
 
  npm run test:e2e
+http://64.225.62.72:8080/
